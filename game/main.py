@@ -1,5 +1,7 @@
+import controller
+
 def run():
-    print("Hola mundo")
+    controller.orquestation()
 
 if __name__ == '__main__':
     run()
