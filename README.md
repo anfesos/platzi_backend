@@ -8,14 +8,15 @@
 
 # Requirements
 - Python 3.8 or higger.
+- Have install PIP.
 - Linux or Mac Operating System. For windows work with WSL.
 
 # Execute the project:
-- clone the project: https://github.com/anfesos/platzi_backend.git
+- Clone the project: https://github.com/anfesos/platzi_backend.git
 
 ## Game package
 - Go to "game" folder.
-- Execute the command "python -m venv env" or "python3 -m venv env" to create the virtual environment.
+- Execute the command "python3 -m venv env" to create the virtual environment.
 - Execute the command "source env/bin/activate"
 
 ## Manual Execution:
